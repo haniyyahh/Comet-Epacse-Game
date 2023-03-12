@@ -1,2 +1,2 @@
-# Simple-Runner-Game
-Simple runner game created in Unity using C#.
+# Comet-Epacse
+CS 4332 Spring 2023 Project
